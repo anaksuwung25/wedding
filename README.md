@@ -29,25 +29,10 @@ php artisan migrate:fresh --seed
 php artisan serve
 php artisan storage:link
 ```
-
-### landing page with guest name
-
-http://wedding-invitation.test/?to=Dani+Sofyan
-
 ### login
 
 ```bash
 http://wedding-invitation.test/admin
-E : admin@codelogy.dev
-P : 123qweasd
-```
-
-### DEMO
-
-http://wedding.codelogy.dev/?to=Dani+Sofyan
-
-```bash
-http://wedding.codelogy.dev/admin
-E : admin@codelogy.dev
+E : valupi@gmail.com
 P : 123qweasd
 ```
