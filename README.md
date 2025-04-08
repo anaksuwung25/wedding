@@ -5,7 +5,7 @@
 Usage
 
 ```bash
-git clone https://github.com/danixsofyan/wedding-invitation
+git clone https://github.com/anaksuwung25/wedding.git
 cd wedding-invitation
 ```
 
